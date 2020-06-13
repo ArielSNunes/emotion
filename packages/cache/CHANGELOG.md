@@ -1,5 +1,12 @@
 # @emotion/cache
 
+## 11.0.0-next.13
+
+### Patch Changes
+
+- Updated dependencies [[`91046a8c`](https://github.com/emotion-js/emotion/commit/91046a8c188327a65daac61583ef3c4458f30afb)]:
+  - @emotion/sheet@0.10.0-next.2
+
 ## 11.0.0-next.12
 
 ### Major Changes

@@ -1,5 +1,13 @@
 # @emotion/jest
 
+## 11.0.0-next.13
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @emotion/css@11.0.0-next.13
+  - @emotion/react@11.0.0-next.13
+
 ## 11.0.0-next.12
 
 ### Patch Changes

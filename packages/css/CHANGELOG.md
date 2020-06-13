@@ -1,5 +1,14 @@
 # emotion
 
+## 11.0.0-next.13
+
+### Patch Changes
+
+- Updated dependencies [[`91046a8c`](https://github.com/emotion-js/emotion/commit/91046a8c188327a65daac61583ef3c4458f30afb), [`5e803106`](https://github.com/emotion-js/emotion/commit/5e803106d391b7c036bdf634318b80337a1d9b70)]:
+  - @emotion/sheet@0.10.0-next.2
+  - @emotion/babel-plugin@11.0.0-next.13
+  - @emotion/cache@11.0.0-next.13
+
 ## 11.0.0-next.12
 
 ### Major Changes
